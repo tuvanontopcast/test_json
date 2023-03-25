@@ -200,5 +200,39 @@
             "guild_name": "Gabvine",
             "tag_title": "United States"
         }
+    ],
+    "guild":[
+        "Macedonia",
+        "Turkey",
+        "Tonga",
+        "Micronesia",
+        "Panama",
+        "Lebanon",
+        "Barbados",
+        "Latvia",
+        "Somalia",
+        "Barbados",
+        "Denmark",
+        "Nigeria",
+        "Barbados",
+        "South Africa",
+        "Iceland",
+        "Australia",
+        "Marshall Islands",
+        "Guam",
+        "American Samoa",
+        "Spain",
+        "Georgia",
+        "Saudi Arabia",
+        "Anguilla",
+        "Guam"
+    ],
+    "tag":[
+        "Sports",
+        "Clothing",
+        "Baby",
+        "Toys",
+        "Home",
+        "Tools"
     ]
 }
