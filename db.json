@@ -1,0 +1,204 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "full_name": "Audry Robbie",
+            "nickname": "arobbie0",
+            "job_title": "VP Sales",
+            "email": "arobbie0@bandcamp.com",
+            "start_date": "03/26/2022",
+            "guild_name": "Quinu",
+            "tag_title": "United States"
+        },
+        {
+            "id": 2,
+            "full_name": "Valli Gebbe",
+            "nickname": "vgebbe1",
+            "job_title": "Paralegal",
+            "email": "vgebbe1@vimeo.com",
+            "start_date": "08/03/2022",
+            "guild_name": "Wordify",
+            "tag_title": "United States"
+        },
+        {
+            "id": 3,
+            "full_name": "Patrick Shoorbrooke",
+            "nickname": "pshoorbrooke2",
+            "job_title": "Research Associate",
+            "email": "pshoorbrooke2@about.com",
+            "start_date": "12/14/2022",
+            "guild_name": "Digitube",
+            "tag_title": "United States"
+        },
+        {
+            "id": 4,
+            "full_name": "Edythe Bragginton",
+            "nickname": "ebragginton3",
+            "job_title": "Nurse",
+            "email": "ebragginton3@thetimes.co.uk",
+            "start_date": "03/16/2023",
+            "guild_name": "Realpoint",
+            "tag_title": "United States"
+        },
+        {
+            "id": 5,
+            "full_name": "Ninetta Hallsworth",
+            "nickname": "nhallsworth4",
+            "job_title": "Teacher",
+            "email": "nhallsworth4@xrea.com",
+            "start_date": "05/28/2022",
+            "guild_name": "Zazio",
+            "tag_title": "United States"
+        },
+        {
+            "id": 6,
+            "full_name": "Cornall Lanfer",
+            "nickname": "clanfer5",
+            "job_title": "Financial Advisor",
+            "email": "clanfer5@indiatimes.com",
+            "start_date": "04/27/2022",
+            "guild_name": "Topicware",
+            "tag_title": "United States"
+        },
+        {
+            "id": 7,
+            "full_name": "Quinta Pennoni",
+            "nickname": "qpennoni6",
+            "job_title": "Help Desk Technician",
+            "email": "qpennoni6@delicious.com",
+            "start_date": "01/22/2023",
+            "guild_name": "Realblab",
+            "tag_title": "United States"
+        },
+        {
+            "id": 8,
+            "full_name": "Chrystel Krzysztofiak",
+            "nickname": "ckrzysztofiak7",
+            "job_title": "Programmer IV",
+            "email": "ckrzysztofiak7@apple.com",
+            "start_date": "02/22/2023",
+            "guild_name": "Devpoint",
+            "tag_title": "United States"
+        },
+        {
+            "id": 9,
+            "full_name": "Eileen Hambly",
+            "nickname": "ehambly8",
+            "job_title": "Biostatistician III",
+            "email": "ehambly8@npr.org",
+            "start_date": "10/16/2022",
+            "guild_name": "Kwideo",
+            "tag_title": "United States"
+        },
+        {
+            "id": 10,
+            "full_name": "Jewelle Pettegre",
+            "nickname": "jpettegre9",
+            "job_title": "Accounting Assistant II",
+            "email": "jpettegre9@archive.org",
+            "start_date": "07/18/2022",
+            "guild_name": "Twimm",
+            "tag_title": "United States"
+        },
+        {
+            "id": 11,
+            "full_name": "Elfie Rozet",
+            "nickname": "erozeta",
+            "job_title": "Accountant IV",
+            "email": "erozeta@ocn.ne.jp",
+            "start_date": "05/08/2022",
+            "guild_name": "Aivee",
+            "tag_title": "United States"
+        },
+        {
+            "id": 12,
+            "full_name": "Norby Le-Good",
+            "nickname": "nlegoodb",
+            "job_title": "Speech Pathologist",
+            "email": "nlegoodb@nydailynews.com",
+            "start_date": "05/25/2022",
+            "guild_name": "Skiptube",
+            "tag_title": "United States"
+        },
+        {
+            "id": 13,
+            "full_name": "Yanaton Engelmann",
+            "nickname": "yengelmannc",
+            "job_title": "Research Associate",
+            "email": "yengelmannc@networksolutions.com",
+            "start_date": "05/13/2022",
+            "guild_name": "Tanoodle",
+            "tag_title": "United States"
+        },
+        {
+            "id": 14,
+            "full_name": "Brinna Yarrell",
+            "nickname": "byarrelld",
+            "job_title": "Account Coordinator",
+            "email": "byarrelld@google.co.uk",
+            "start_date": "12/23/2022",
+            "guild_name": "Youspan",
+            "tag_title": "United States"
+        },
+        {
+            "id": 15,
+            "full_name": "Gunner Allanby",
+            "nickname": "gallanbye",
+            "job_title": "Staff Accountant I",
+            "email": "gallanbye@bigcartel.com",
+            "start_date": "09/09/2022",
+            "guild_name": "Skynoodle",
+            "tag_title": "United States"
+        },
+        {
+            "id": 16,
+            "full_name": "Keri Heales",
+            "nickname": "khealesf",
+            "job_title": "Human Resources Assistant IV",
+            "email": "khealesf@reuters.com",
+            "start_date": "11/09/2022",
+            "guild_name": "Kimia",
+            "tag_title": "United States"
+        },
+        {
+            "id": 17,
+            "full_name": "Graham Crutchfield",
+            "nickname": "gcrutchfieldg",
+            "job_title": "Senior Financial Analyst",
+            "email": "gcrutchfieldg@rambler.ru",
+            "start_date": "12/15/2022",
+            "guild_name": "Yakidoo",
+            "tag_title": "United States"
+        },
+        {
+            "id": 18,
+            "full_name": "Yuma Rubrow",
+            "nickname": "yrubrowh",
+            "job_title": "Occupational Therapist",
+            "email": "yrubrowh@facebook.com",
+            "start_date": "01/30/2023",
+            "guild_name": "Yakijo",
+            "tag_title": "United States"
+        },
+        {
+            "id": 19,
+            "full_name": "Larisa Yve",
+            "nickname": "lyvei",
+            "job_title": "Web Designer II",
+            "email": "lyvei@economist.com",
+            "start_date": "07/04/2022",
+            "guild_name": "Fiveclub",
+            "tag_title": "United States"
+        },
+        {
+            "id": 20,
+            "full_name": "Ignacius Kevlin",
+            "nickname": "ikevlinj",
+            "job_title": "Human Resources Assistant III",
+            "email": "ikevlinj@linkedin.com",
+            "start_date": "09/07/2022",
+            "guild_name": "Gabvine",
+            "tag_title": "United States"
+        }
+    ]
+}
