@@ -7,17 +7,8 @@
             "job_title": "VP Sales",
             "email": "arobbie0@bandcamp.com",
             "start_date": "03/26/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Spain"
-            ],
-            "tag_title": [
-                "Sports",
-                "Clothing",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Quinu",
+            "tag_title": "United States"
         },
         {
             "id": 2,
@@ -26,18 +17,8 @@
             "job_title": "Paralegal",
             "email": "vgebbe1@vimeo.com",
             "start_date": "08/03/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Australia",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Toys",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Wordify",
+            "tag_title": "United States"
         },
         {
             "id": 3,
@@ -46,17 +27,8 @@
             "job_title": "Research Associate",
             "email": "pshoorbrooke2@about.com",
             "start_date": "12/14/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Sports",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Digitube",
+            "tag_title": "United States"
         },
         {
             "id": 4,
@@ -65,20 +37,8 @@
             "job_title": "Nurse",
             "email": "ebragginton3@thetimes.co.uk",
             "start_date": "03/16/2023",
-            "guild_name": [
-                "Iceland",
-                "Australia",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Sports",
-                "Clothing",
-                "Baby",
-                "Toys",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Realpoint",
+            "tag_title": "United States"
         },
         {
             "id": 5,
@@ -87,20 +47,8 @@
             "job_title": "Teacher",
             "email": "nhallsworth4@xrea.com",
             "start_date": "05/28/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Sports",
-                "Clothing",
-                "Baby",
-                "Toys",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Zazio",
+            "tag_title": "United States"
         },
         {
             "id": 6,
@@ -109,17 +57,8 @@
             "job_title": "Financial Advisor",
             "email": "clanfer5@indiatimes.com",
             "start_date": "04/27/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Tonga"
-            ],
-            "tag_title": [
-                "Sports",
-                "Clothing",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Topicware",
+            "tag_title": "United States"
         },
         {
             "id": 7,
@@ -128,15 +67,8 @@
             "job_title": "Help Desk Technician",
             "email": "qpennoni6@delicious.com",
             "start_date": "01/22/2023",
-            "guild_name": [
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Toys",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Realblab",
+            "tag_title": "United States"
         },
         {
             "id": 8,
@@ -145,15 +77,8 @@
             "job_title": "Programmer IV",
             "email": "ckrzysztofiak7@apple.com",
             "start_date": "02/22/2023",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Sports"
-            ]
+            "guild_name": "Devpoint",
+            "tag_title": "United States"
         },
         {
             "id": 9,
@@ -162,17 +87,8 @@
             "job_title": "Biostatistician III",
             "email": "ehambly8@npr.org",
             "start_date": "10/16/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Toys",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Kwideo",
+            "tag_title": "United States"
         },
         {
             "id": 10,
@@ -181,16 +97,8 @@
             "job_title": "Accounting Assistant II",
             "email": "jpettegre9@archive.org",
             "start_date": "07/18/2022",
-            "guild_name": [
-                "Iceland",
-                "Australia",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Sports",
-                "Clothing"
-            ]
+            "guild_name": "Twimm",
+            "tag_title": "United States"
         },
         {
             "id": 11,
@@ -199,17 +107,8 @@
             "job_title": "Accountant IV",
             "email": "erozeta@ocn.ne.jp",
             "start_date": "05/08/2022",
-            "guild_name": [
-                "Iceland",
-                "Australia",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Toys",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Aivee",
+            "tag_title": "United States"
         },
         {
             "id": 12,
@@ -218,16 +117,8 @@
             "job_title": "Speech Pathologist",
             "email": "nlegoodb@nydailynews.com",
             "start_date": "05/25/2022",
-            "guild_name": [
-                "Macedonia",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Toys",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Skiptube",
+            "tag_title": "United States"
         },
         {
             "id": 13,
@@ -236,13 +127,8 @@
             "job_title": "Research Associate",
             "email": "yengelmannc@networksolutions.com",
             "start_date": "05/13/2022",
-            "guild_name": [
-                "Spain"
-            ],
-            "tag_title": [
-                "Sports",
-                "Clothing"
-            ]
+            "guild_name": "Tanoodle",
+            "tag_title": "United States"
         },
         {
             "id": 14,
@@ -251,17 +137,8 @@
             "job_title": "Account Coordinator",
             "email": "byarrelld@google.co.uk",
             "start_date": "12/23/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Tonga",
-                "Iceland"
-            ],
-            "tag_title": [
-                "Toys",
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Youspan",
+            "tag_title": "United States"
         },
         {
             "id": 15,
@@ -270,16 +147,8 @@
             "job_title": "Staff Accountant I",
             "email": "gallanbye@bigcartel.com",
             "start_date": "09/09/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Sports",
-                "Tools"
-            ]
+            "guild_name": "Skynoodle",
+            "tag_title": "United States"
         },
         {
             "id": 16,
@@ -288,15 +157,8 @@
             "job_title": "Human Resources Assistant IV",
             "email": "khealesf@reuters.com",
             "start_date": "11/09/2022",
-            "guild_name": [
-                "Australia",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Sports",
-                "Tools"
-            ]
+            "guild_name": "Kimia",
+            "tag_title": "United States"
         },
         {
             "id": 17,
@@ -305,17 +167,8 @@
             "job_title": "Senior Financial Analyst",
             "email": "gcrutchfieldg@rambler.ru",
             "start_date": "12/15/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Tonga",
-                "Iceland",
-                "Australia"
-            ],
-            "tag_title": [
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Yakidoo",
+            "tag_title": "United States"
         },
         {
             "id": 18,
@@ -324,15 +177,8 @@
             "job_title": "Occupational Therapist",
             "email": "yrubrowh@facebook.com",
             "start_date": "01/30/2023",
-            "guild_name": [
-                "Macedonia",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Yakijo",
+            "tag_title": "United States"
         },
         {
             "id": 19,
@@ -341,17 +187,8 @@
             "job_title": "Web Designer II",
             "email": "lyvei@economist.com",
             "start_date": "07/04/2022",
-            "guild_name": [
-                "Macedonia",
-                "Turkey",
-                "Tonga",
-                "Guam",
-                "Spain"
-            ],
-            "tag_title": [
-                "Home",
-                "Tools"
-            ]
+            "guild_name": "Fiveclub",
+            "tag_title": "United States"
         },
         {
             "id": 20,
@@ -360,15 +197,42 @@
             "job_title": "Human Resources Assistant III",
             "email": "ikevlinj@linkedin.com",
             "start_date": "09/07/2022",
-            "guild_name": [
-                "Iceland",
-                "Australia"
-            ],
-            "tag_title": [
-                "Sports",
-                "Clothing",
-                "Baby"
-            ]
+            "guild_name": "Gabvine",
+            "tag_title": "United States"
         }
+    ],
+    "guild":[
+        "Macedonia",
+        "Turkey",
+        "Tonga",
+        "Micronesia",
+        "Panama",
+        "Lebanon",
+        "Barbados",
+        "Latvia",
+        "Somalia",
+        "Barbados",
+        "Denmark",
+        "Nigeria",
+        "Barbados",
+        "South Africa",
+        "Iceland",
+        "Australia",
+        "Marshall Islands",
+        "Guam",
+        "American Samoa",
+        "Spain",
+        "Georgia",
+        "Saudi Arabia",
+        "Anguilla",
+        "Guam"
+    ],
+    "tag":[
+        "Sports",
+        "Clothing",
+        "Baby",
+        "Toys",
+        "Home",
+        "Tools"
     ]
 }
